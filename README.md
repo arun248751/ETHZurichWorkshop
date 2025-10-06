@@ -1,7 +1,6 @@
 - Thailand Temporal building data :  [Open Temporal Building Data](https://mmeka-ee.projects.earthengine.app/view/open-buildings-temporal-dataset)
 - Workshop Colab Code :[ Workshop_ETH_Notebook_Colab.ipynb - Colab](https://colab.research.google.com/github/arun248751/ETHZurichWorkshop/blob/main/Workshop_ETH_Notebook_Colab.ipynb)
 - Github Code : [https://githubtocolab.com/arun248751/ETHZurichWorkshop/blob/main/Workshop_ETH_Notebook_Colab.ipynb ](https://github.com/arun248751/ETHZurichWorkshop/blob/main/Workshop_ETH_Notebook.ipynb)
-- Wifi Access : [Swiss Re Guest Portal](https://guest-portal.swissre.com:8443/sponsorportal/PortalSetup.action?portal=46846472-6424-11e5-a772-a46c2aebfbe4)
 
 
 
